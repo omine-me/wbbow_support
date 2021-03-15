@@ -1,0 +1,14 @@
+body{
+    background-color: #222;
+    color: #DDD;
+}
+a{
+    color: lightblue;
+}
+.wrapMain{
+    width: min(90%, 760px);;
+    margin: auto;
+}
+.tR{
+    text-align: right;
+}
