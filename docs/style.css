@@ -1,0 +1,29 @@
+body {
+  background-color: #222;
+  color: #ddd;
+  font-family: "Segoe UI", Meiryo, system-ui, -apple-system, BlinkMacSystemFont,
+    sans-serif;
+  box-sizing: border-box;
+}
+a {
+  color: #ffcd4c;
+  text-decoration: none;
+}
+.logotype {
+  font-size: 2rem;
+  color: #ffcd4c;
+  margin: 0.7rem;
+}
+.wrapper {
+  width: min(90%, 760px);
+  margin: auto;
+  text-align: center;
+}
+.menu {
+}
+.wrapClause {
+  text-align: left;
+}
+.tR {
+  text-align: right;
+}
