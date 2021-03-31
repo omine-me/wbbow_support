@@ -9,6 +9,9 @@ a {
   color: #ffcd4c;
   text-decoration: none;
 }
+img {
+  width: 100%;
+}
 .logotype {
   font-size: 2rem;
   color: #ffcd4c;
@@ -26,4 +29,8 @@ a {
 }
 .tR {
   text-align: right;
+}
+.right {
+  font-size: 0.7rem;
+  color: #999;
 }
